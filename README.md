@@ -1,3 +1,3 @@
 # Git-BitBucket
 
-Git-BitBucket are similar in UI
+BitBucket is for version control system
